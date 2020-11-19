@@ -1,5 +1,7 @@
-<h1 align="center">Welcome to FarmingYield_model_creation 👋</h1>
+<h1 align="center">Wheat yield prediction system 🌾</h1>
 <p>
+A wheat quality and yield prediction system using the geographic coordinates and the date of
+plantation of the seeds.
 </p>
 
 ## Show your support
