@@ -34,7 +34,13 @@ sudo apt install python3-pip
 sudo -H pip install jupyter
 ```
 
-## Author
+## Authors
 
 👤 **Iheb KILANI**
+
+
+👤 **Yosr MERCHAOUI**
+
+
+👤 **Yosra NACEUR**
 
